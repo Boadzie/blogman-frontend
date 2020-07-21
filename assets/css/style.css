@@ -5,6 +5,7 @@ a {
 h1 {
   font-family: Staatliches;
   font-size: 120px;
+  margin-top: -50px;
 }
 
 #category {
